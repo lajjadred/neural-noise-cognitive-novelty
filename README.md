@@ -14,7 +14,7 @@
 | Name | GitHub |
 |------|--------|
 | lajjadred | [@lajjadred](https://github.com/lajjadred) |
-| Chaemun Lee (이채문) | [@CHML-real](https://github.com/CHML-real) |
+| Chaemun Lee | [@CHML-real](https://github.com/CHML-real) |
 
 ---
 
