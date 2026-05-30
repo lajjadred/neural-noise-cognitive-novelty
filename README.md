@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20445627.svg)](https://doi.org/10.5281/zenodo.20445627)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Companion paper:** lajjadred (2026). *Beyond Deductive Machinery: Why LLMs Cannot Generate Truly Novel Conclusions.*
+> **Companion paper:** lajjadred (2026). *Beyond Deductive Machinery: Why LLMs Cannot Generate Truly Novel Conclusions. *
 > Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20324204.svg)](https://doi.org/10.5281/zenodo.20324204)
 
 ---
